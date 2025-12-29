@@ -306,3 +306,17 @@ CRITICAL alert triggered – logged only
 CRITICAL alert triggered – logged only
 2025-12-29 18:20:03 [INFO] Service sshd is running.
 2025-12-29 18:20:03 [INFO] Service crond is running.
+2025-12-29 18:25:03 [INFO] CPU normal (1%)
+2025-12-29 18:25:03 - [INFO] Memory usage normal: 22%
+2025-12-29 18:25:03 [CRITICAL] Disk usage 97% exceeded limit 80%.
+2025-12-29 18:25:03 [INFO] Auto-cleaned 0 old log files in /var/log.
+CRITICAL alert triggered – logged only
+2025-12-29 18:25:03 [INFO] Service sshd is running.
+2025-12-29 18:25:03 [INFO] Service crond is running.
+2025-12-29 18:30:04 [INFO] CPU normal (1%)
+2025-12-29 18:30:04 - [INFO] Memory usage normal: 23%
+2025-12-29 18:30:04 [CRITICAL] Disk usage 97% exceeded limit 80%.
+2025-12-29 18:30:04 [INFO] Auto-cleaned 0 old log files in /var/log.
+CRITICAL alert triggered – logged only
+2025-12-29 18:30:04 [INFO] Service sshd is running.
+2025-12-29 18:30:04 [INFO] Service crond is running.
