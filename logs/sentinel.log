@@ -1,0 +1,308 @@
+2025-12-28 18:10:02 [INFO] Disk usage normal: 21%
+2025-12-28 18:15:02 [INFO] Disk usage normal: 21%
+2025-12-28 18:20:02 [WARNING] CPU usage high: 100%
+2025-12-28 18:20:02 [INFO] Disk usage normal: 21%
+2025-12-28 18:25:02 [INFO] Disk usage normal: 21%
+2025-12-28 18:30:03 [INFO] Disk usage normal: 21%
+2025-12-28 18:35:02 [INFO] Disk usage normal: 21%
+2025-12-28 18:40:02 [INFO] Disk usage normal: 21%
+2025-12-28 18:45:02 [INFO] Disk usage normal: 21%
+2025-12-28 18:50:02 [INFO] Disk usage normal: 21%
+2025-12-28 18:55:03 [CRITICAL] CPU critical (100%). Immediate admin attention required. Top process: PID=5174,PROC=stress,CPU=95.0%
+2025-12-28 18:55:03 [INFO] Disk usage normal: 21%
+2025-12-28 19:00:04 [INFO] CPU normal (3%)
+2025-12-28 19:00:04 [INFO] Disk usage normal: 21%
+2025-12-28 19:05:03 [INFO] CPU normal (4%)
+2025-12-28 19:05:03 [INFO] Disk usage normal: 21%
+2025-12-28 19:10:04 [INFO] CPU normal (53%)
+2025-12-28 19:10:04 [INFO] Disk usage normal: 21%
+2025-12-28 19:15:03 [INFO] CPU normal (1%)
+2025-12-28 19:15:03 [INFO] Disk usage normal: 21%
+2025-12-28 19:20:03 [INFO] CPU normal (3%)
+2025-12-28 19:20:03 [INFO] Disk usage normal: 33%
+2025-12-28 19:25:04 [INFO] CPU normal (54%)
+2025-12-28 19:25:04 [Memory usage high: 56%] 
+2025-12-28 19:25:04 [INFO] Disk usage normal: 33%
+2025-12-28 19:30:03 [INFO] CPU normal (3%)
+2025-12-28 19:30:03 [INFO] Disk usage normal: 33%
+2025-12-28 19:35:03 [INFO] CPU normal (1%)
+2025-12-28 19:35:03 [INFO] Disk usage normal: 33%
+2025-12-28 19:40:03 [INFO] CPU normal (3%)
+2025-12-28 19:40:03 [INFO] Disk usage normal: 33%
+2025-12-28 19:45:03 [INFO] CPU normal (1%)
+2025-12-28 19:45:03 [INFO] Disk usage normal: 33%
+2025-12-28 19:50:03 [INFO] CPU normal (0%)
+2025-12-28 19:50:03 [INFO] Disk usage normal: 33%
+2025-12-28 19:55:04 [INFO] CPU normal (51%)
+2025-12-28 19:55:04 - [INFO] Memory usage normal: 73%
+2025-12-28 19:55:04 [INFO] Disk usage normal: 33%
+2025-12-28 20:00:03 [INFO] CPU normal (1%)
+2025-12-28 20:00:03 - [INFO] Memory usage normal: 19%
+2025-12-28 20:00:03 [INFO] Disk usage normal: 33%
+2025-12-28 20:05:04 [INFO] CPU normal (8%)
+2025-12-28 20:05:04 - [WARNING] Memory usage high: 89%. Top memory-consuming processes:
+2025-12-28 20:05:04 -     8221 stress          75.8
+2025-12-28 20:05:04 -     8289 systemd          0.9
+2025-12-28 20:05:04 -     1 systemd          0.7
+2025-12-28 20:05:04 -     8278 systemd-userwor  0.4
+2025-12-28 20:05:04 -     1403 systemd-logind   0.3
+2025-12-28 20:05:04 [INFO] Disk usage normal: 33%
+2025-12-28 20:10:04 [INFO] CPU normal (3%)
+2025-12-28 20:10:04 - [INFO] Memory usage normal: 15%
+2025-12-28 20:10:04 [INFO] Disk usage normal: 33%
+2025-12-28 20:15:03 [INFO] CPU normal (0%)
+2025-12-28 20:15:03 - [INFO] Memory usage normal: 16%
+2025-12-28 20:15:03 [INFO] Disk usage normal: 33%
+2025-12-28 20:20:03 [INFO] CPU normal (1%)
+2025-12-28 20:20:03 - [INFO] Memory usage normal: 16%
+2025-12-28 20:20:03 [INFO] Disk usage normal: 33%
+2025-12-28 20:21:13 [INFO] CPU normal (3%)
+2025-12-28 20:21:13 - [INFO] Memory usage normal: 16%
+2025-12-28 20:21:13 [INFO] Disk usage normal: 33%
+2025-12-28 20:25:03 [INFO] CPU normal (0%)
+2025-12-28 20:25:03 - [INFO] Memory usage normal: 19%
+2025-12-28 20:25:03 [INFO] Disk usage normal: 33%
+2025-12-28 20:30:04 [INFO] CPU normal (0%)
+2025-12-28 20:30:04 - [INFO] Memory usage normal: 20%
+2025-12-28 20:30:04 [CRITICAL] Disk usage 96% exceeded limit 80%.
+2025-12-28 20:30:04 [INFO] Auto-cleaned 0 old log files in /var/log.
+2025-12-28 20:35:03 [INFO] CPU normal (1%)
+2025-12-28 20:35:03 - [INFO] Memory usage normal: 21%
+2025-12-28 20:35:03 [CRITICAL] Disk usage 96% exceeded limit 80%.
+2025-12-28 20:35:03 [INFO] Auto-cleaned 0 old log files in /var/log.
+2025-12-29 14:30:04 [INFO] CPU normal (1%)
+2025-12-29 14:30:04 - [INFO] Memory usage normal: 20%
+2025-12-29 14:30:04 [CRITICAL] Disk usage 96% exceeded limit 80%.
+2025-12-29 14:30:04 [INFO] Auto-cleaned 0 old log files in /var/log.
+2025-12-29 14:35:03 [INFO] CPU normal (1%)
+2025-12-29 14:35:03 - [INFO] Memory usage normal: 21%
+2025-12-29 14:35:03 [CRITICAL] Disk usage 96% exceeded limit 80%.
+2025-12-29 14:35:03 [INFO] Auto-cleaned 0 old log files in /var/log.
+2025-12-29 14:40:04 [INFO] CPU normal (3%)
+2025-12-29 14:40:04 - [INFO] Memory usage normal: 20%
+2025-12-29 14:40:04 [CRITICAL] Disk usage 96% exceeded limit 80%.
+2025-12-29 14:40:04 [INFO] Auto-cleaned 0 old log files in /var/log.
+2025-12-29 14:45:03 [INFO] CPU normal (2%)
+2025-12-29 14:45:03 - [INFO] Memory usage normal: 22%
+2025-12-29 14:45:03 [CRITICAL] Disk usage 96% exceeded limit 80%.
+2025-12-29 14:45:03 [INFO] Auto-cleaned 0 old log files in /var/log.
+2025-12-29 14:46:10 [INFO] CPU normal (0%)
+2025-12-29 14:46:10 - [INFO] Memory usage normal: 22%
+2025-12-29 14:46:10 [CRITICAL] Disk usage 96% exceeded limit 80%.
+2025-12-29 14:46:10 [INFO] Auto-cleaned 0 old log files in /var/log.
+2025-12-29 14:50:04 [INFO] CPU normal (3%)
+2025-12-29 14:50:04 - [INFO] Memory usage normal: 22%
+2025-12-29 14:50:04 [CRITICAL] Disk usage 96% exceeded limit 80%.
+2025-12-29 14:50:04 [INFO] Auto-cleaned 0 old log files in /var/log.
+2025-12-29 14:55:03 [INFO] CPU normal (3%)
+2025-12-29 14:55:03 - [INFO] Memory usage normal: 23%
+2025-12-29 14:55:03 [CRITICAL] Disk usage 96% exceeded limit 80%.
+2025-12-29 14:55:03 [INFO] Auto-cleaned 0 old log files in /var/log.
+2025-12-29 15:00:03 [INFO] CPU normal (2%)
+2025-12-29 15:00:04 - [INFO] Memory usage normal: 21%
+2025-12-29 15:00:04 [CRITICAL] Disk usage 96% exceeded limit 80%.
+2025-12-29 15:00:04 [INFO] Auto-cleaned 0 old log files in /var/log.
+2025-12-29 15:05:04 [INFO] CPU normal (1%)
+2025-12-29 15:05:04 - [INFO] Memory usage normal: 18%
+2025-12-29 15:05:04 [CRITICAL] Disk usage 96% exceeded limit 80%.
+2025-12-29 15:05:04 [INFO] Auto-cleaned 0 old log files in /var/log.
+2025-12-29 15:07:53 [INFO] CPU normal (1%)
+2025-12-29 15:07:53 - [INFO] Memory usage normal: 19%
+2025-12-29 15:07:53 [CRITICAL] Disk usage 96% exceeded limit 80%.
+2025-12-29 15:07:53 [INFO] Auto-cleaned 0 old log files in /var/log.
+2025-12-29 15:10:03 [INFO] CPU normal (0%)
+2025-12-29 15:10:03 - [INFO] Memory usage normal: 20%
+2025-12-29 15:10:03 [CRITICAL] Disk usage 96% exceeded limit 80%.
+2025-12-29 15:10:03 [INFO] Auto-cleaned 0 old log files in /var/log.
+2025-12-29 15:15:04 [INFO] CPU normal (1%)
+2025-12-29 15:15:04 - [INFO] Memory usage normal: 21%
+2025-12-29 15:15:04 [CRITICAL] Disk usage 96% exceeded limit 80%.
+2025-12-29 15:15:04 [INFO] Auto-cleaned 0 old log files in /var/log.
+2025-12-29 15:15:04 [CRITICAL] Service sshd was down and restarted.
+2025-12-29 15:15:04 [INFO] Service crond is running.
+2025-12-29 15:15:04 [CRITICAL] Service docker was down and restarted.
+2025-12-29 15:16:03 [INFO] CPU normal (0%)
+2025-12-29 15:16:03 - [INFO] Memory usage normal: 18%
+2025-12-29 15:16:03 [CRITICAL] Disk usage 96% exceeded limit 80%.
+2025-12-29 15:16:03 [INFO] Auto-cleaned 0 old log files in /var/log.
+2025-12-29 15:16:03 [CRITICAL] Service sshd was down and restarted.
+2025-12-29 15:16:03 [INFO] Service crond is running.
+2025-12-29 15:16:03 [CRITICAL] Service docker was down and restarted.
+2025-12-29 15:20:03 [INFO] CPU normal (1%)
+2025-12-29 15:20:03 - [INFO] Memory usage normal: 20%
+2025-12-29 15:20:03 [CRITICAL] Disk usage 96% exceeded limit 80%.
+2025-12-29 15:20:03 [INFO] Auto-cleaned 0 old log files in /var/log.
+2025-12-29 15:20:04 [INFO] Service sshd is running.
+2025-12-29 15:20:04 [INFO] Service crond is running.
+2025-12-29 15:20:04 [CRITICAL] Service docker was down and restarted.
+2025-12-29 15:25:03 [INFO] CPU normal (1%)
+2025-12-29 15:25:03 - [INFO] Memory usage normal: 20%
+2025-12-29 15:25:03 [CRITICAL] Disk usage 96% exceeded limit 80%.
+2025-12-29 15:25:03 [INFO] Auto-cleaned 0 old log files in /var/log.
+2025-12-29 15:25:03 [INFO] Service sshd is running.
+2025-12-29 15:25:03 [INFO] Service crond is running.
+2025-12-29 15:25:03 [CRITICAL] Service docker was down and restarted.
+2025-12-29 15:30:04 [INFO] CPU normal (2%)
+2025-12-29 15:30:04 - [INFO] Memory usage normal: 21%
+2025-12-29 15:30:04 [CRITICAL] Disk usage 96% exceeded limit 80%.
+2025-12-29 15:30:04 [INFO] Auto-cleaned 0 old log files in /var/log.
+2025-12-29 15:30:04 [INFO] Service sshd is running.
+2025-12-29 15:30:04 [INFO] Service crond is running.
+2025-12-29 15:30:04 [CRITICAL] Service docker was down and restarted.
+2025-12-29 16:15:04 [INFO] CPU normal (1%)
+2025-12-29 16:15:04 - [INFO] Memory usage normal: 18%
+2025-12-29 16:15:04 [CRITICAL] Disk usage 96% exceeded limit 80%.
+2025-12-29 16:15:04 [INFO] Auto-cleaned 0 old log files in /var/log.
+CRITICAL alert triggered – logged only
+2025-12-29 16:15:04 [INFO] Service sshd is running.
+2025-12-29 16:15:04 [INFO] Service crond is running.
+2025-12-29 16:15:04 [CRITICAL] Service docker was down and restarted.
+2025-12-29 16:20:02 [INFO] CPU normal (0%)
+2025-12-29 16:20:02 - [INFO] Memory usage normal: 19%
+2025-12-29 16:20:02 [CRITICAL] Disk usage 96% exceeded limit 80%.
+2025-12-29 16:20:02 [INFO] Auto-cleaned 0 old log files in /var/log.
+CRITICAL alert triggered – logged only
+2025-12-29 16:20:03 [CRITICAL] Service sshd was down and restarted.
+2025-12-29 16:20:03 [INFO] Service crond is running.
+2025-12-29 16:20:03 [CRITICAL] Service docker was down and restarted.
+2025-12-29 16:20:07 [INFO] CPU normal (3%)
+2025-12-29 16:20:07 - [INFO] Memory usage normal: 19%
+2025-12-29 16:20:07 [CRITICAL] Disk usage 96% exceeded limit 80%.
+2025-12-29 16:20:07 [INFO] Auto-cleaned 0 old log files in /var/log.
+CRITICAL alert triggered – logged only
+2025-12-29 16:20:07 [INFO] Service sshd is running.
+2025-12-29 16:20:07 [INFO] Service crond is running.
+2025-12-29 16:20:07 [CRITICAL] Service docker was down and restarted.
+2025-12-29 16:22:47 [INFO] CPU normal (3%)
+2025-12-29 16:22:47 - [INFO] Memory usage normal: 20%
+2025-12-29 16:22:47 [CRITICAL] Disk usage 96% exceeded limit 80%.
+2025-12-29 16:22:47 [INFO] Auto-cleaned 0 old log files in /var/log.
+CRITICAL alert triggered – logged only
+2025-12-29 16:22:47 [CRITICAL] Service sshd was down and restarted.
+2025-12-29 16:22:47 [INFO] Service crond is running.
+2025-12-29 16:25:02 [INFO] CPU normal (1%)
+2025-12-29 16:25:02 - [INFO] Memory usage normal: 20%
+2025-12-29 16:25:02 [CRITICAL] Disk usage 96% exceeded limit 80%.
+2025-12-29 16:25:02 [INFO] Auto-cleaned 0 old log files in /var/log.
+CRITICAL alert triggered – logged only
+2025-12-29 16:25:02 [INFO] Service sshd is running.
+2025-12-29 16:25:02 [INFO] Service crond is running.
+2025-12-29 16:25:13 [INFO] CPU normal (0%)
+2025-12-29 16:25:13 - [INFO] Memory usage normal: 20%
+2025-12-29 16:25:13 [CRITICAL] Disk usage 96% exceeded limit 80%.
+2025-12-29 16:25:13 [INFO] Auto-cleaned 0 old log files in /var/log.
+CRITICAL alert triggered – logged only
+2025-12-29 16:25:13 [CRITICAL] Service sshd was down and restarted.
+2025-12-29 16:25:13 [INFO] Service crond is running.
+2025-12-29 16:30:03 [INFO] CPU normal (1%)
+2025-12-29 16:30:03 - [INFO] Memory usage normal: 20%
+2025-12-29 16:30:03 [CRITICAL] Disk usage 96% exceeded limit 80%.
+2025-12-29 16:30:03 [INFO] Auto-cleaned 0 old log files in /var/log.
+CRITICAL alert triggered – logged only
+2025-12-29 16:30:03 [INFO] Service sshd is running.
+2025-12-29 16:30:03 [INFO] Service crond is running.
+2025-12-29 17:15:03 [INFO] CPU normal (1%)
+2025-12-29 17:15:03 - [INFO] Memory usage normal: 19%
+2025-12-29 17:15:03 [CRITICAL] Disk usage 96% exceeded limit 80%.
+2025-12-29 17:15:03 [INFO] Auto-cleaned 0 old log files in /var/log.
+CRITICAL alert triggered – logged only
+2025-12-29 17:15:03 [INFO] Service sshd is running.
+2025-12-29 17:15:03 [INFO] Service crond is running.
+2025-12-29 17:20:03 [INFO] CPU normal (1%)
+2025-12-29 17:20:03 - [INFO] Memory usage normal: 20%
+2025-12-29 17:20:03 [CRITICAL] Disk usage 96% exceeded limit 80%.
+2025-12-29 17:20:03 [INFO] Auto-cleaned 0 old log files in /var/log.
+CRITICAL alert triggered – logged only
+2025-12-29 17:20:03 [INFO] Service sshd is running.
+2025-12-29 17:20:03 [INFO] Service crond is running.
+2025-12-29 17:25:03 [INFO] CPU normal (1%)
+2025-12-29 17:25:03 - [INFO] Memory usage normal: 20%
+2025-12-29 17:25:03 [CRITICAL] Disk usage 96% exceeded limit 80%.
+2025-12-29 17:25:03 [INFO] Auto-cleaned 0 old log files in /var/log.
+CRITICAL alert triggered – logged only
+2025-12-29 17:25:03 [INFO] Service sshd is running.
+2025-12-29 17:25:03 [INFO] Service crond is running.
+2025-12-29 17:30:04 [INFO] CPU normal (1%)
+2025-12-29 17:30:04 - [INFO] Memory usage normal: 20%
+2025-12-29 17:30:04 [CRITICAL] Disk usage 96% exceeded limit 80%.
+2025-12-29 17:30:04 [INFO] Auto-cleaned 0 old log files in /var/log.
+CRITICAL alert triggered – logged only
+2025-12-29 17:30:04 [INFO] Service sshd is running.
+2025-12-29 17:30:04 [INFO] Service crond is running.
+2025-12-29 17:35:03 [INFO] CPU normal (1%)
+2025-12-29 17:35:03 - [INFO] Memory usage normal: 20%
+2025-12-29 17:35:03 [CRITICAL] Disk usage 96% exceeded limit 80%.
+2025-12-29 17:35:03 [INFO] Auto-cleaned 0 old log files in /var/log.
+CRITICAL alert triggered – logged only
+2025-12-29 17:35:03 [INFO] Service sshd is running.
+2025-12-29 17:35:03 [INFO] Service crond is running.
+2025-12-29 17:40:03 [INFO] CPU normal (1%)
+2025-12-29 17:40:03 - [INFO] Memory usage normal: 19%
+2025-12-29 17:40:03 [CRITICAL] Disk usage 96% exceeded limit 80%.
+2025-12-29 17:40:03 [INFO] Auto-cleaned 0 old log files in /var/log.
+CRITICAL alert triggered – logged only
+2025-12-29 17:40:03 [INFO] Service sshd is running.
+2025-12-29 17:40:03 [INFO] Service crond is running.
+2025-12-29 17:45:03 [INFO] CPU normal (0%)
+2025-12-29 17:45:03 - [INFO] Memory usage normal: 18%
+2025-12-29 17:45:03 [CRITICAL] Disk usage 96% exceeded limit 80%.
+2025-12-29 17:45:03 [INFO] Auto-cleaned 0 old log files in /var/log.
+CRITICAL alert triggered – logged only
+2025-12-29 17:45:03 [INFO] Service sshd is running.
+2025-12-29 17:45:03 [INFO] Service crond is running.
+2025-12-29 17:50:03 [INFO] CPU normal (3%)
+2025-12-29 17:50:03 - [INFO] Memory usage normal: 19%
+2025-12-29 17:50:03 [CRITICAL] Disk usage 96% exceeded limit 80%.
+2025-12-29 17:50:03 [INFO] Auto-cleaned 0 old log files in /var/log.
+CRITICAL alert triggered – logged only
+2025-12-29 17:50:03 [INFO] Service sshd is running.
+2025-12-29 17:50:03 [INFO] Service crond is running.
+2025-12-29 17:55:03 [INFO] CPU normal (1%)
+2025-12-29 17:55:03 - [INFO] Memory usage normal: 19%
+2025-12-29 17:55:03 [CRITICAL] Disk usage 96% exceeded limit 80%.
+2025-12-29 17:55:03 [INFO] Auto-cleaned 0 old log files in /var/log.
+CRITICAL alert triggered – logged only
+2025-12-29 17:55:03 [INFO] Service sshd is running.
+2025-12-29 17:55:03 [INFO] Service crond is running.
+2025-12-29 17:58:20 [INFO] CPU normal (1%)
+2025-12-29 17:58:20 - [INFO] Memory usage normal: 20%
+2025-12-29 17:58:20 [CRITICAL] Disk usage 96% exceeded limit 80%.
+2025-12-29 17:58:20 [INFO] Auto-cleaned 0 old log files in /var/log.
+CRITICAL alert triggered – logged only
+2025-12-29 17:58:20 [INFO] Service sshd is running.
+2025-12-29 17:58:20 [INFO] Service crond is running.
+2025-12-29 18:00:03 [INFO] CPU normal (0%)
+2025-12-29 18:00:03 - [INFO] Memory usage normal: 21%
+2025-12-29 18:00:03 [CRITICAL] Disk usage 96% exceeded limit 80%.
+2025-12-29 18:00:03 [INFO] Auto-cleaned 0 old log files in /var/log.
+CRITICAL alert triggered – logged only
+2025-12-29 18:00:03 [INFO] Service sshd is running.
+2025-12-29 18:00:03 [INFO] Service crond is running.
+2025-12-29 18:05:03 [INFO] CPU normal (3%)
+2025-12-29 18:05:03 - [INFO] Memory usage normal: 21%
+2025-12-29 18:05:03 [CRITICAL] Disk usage 97% exceeded limit 80%.
+2025-12-29 18:05:03 [INFO] Auto-cleaned 0 old log files in /var/log.
+CRITICAL alert triggered – logged only
+2025-12-29 18:05:03 [INFO] Service sshd is running.
+2025-12-29 18:05:03 [INFO] Service crond is running.
+2025-12-29 18:10:03 [INFO] CPU normal (1%)
+2025-12-29 18:10:03 - [INFO] Memory usage normal: 21%
+2025-12-29 18:10:03 [CRITICAL] Disk usage 97% exceeded limit 80%.
+2025-12-29 18:10:03 [INFO] Auto-cleaned 0 old log files in /var/log.
+CRITICAL alert triggered – logged only
+2025-12-29 18:10:03 [INFO] Service sshd is running.
+2025-12-29 18:10:03 [INFO] Service crond is running.
+2025-12-29 18:15:03 [INFO] CPU normal (1%)
+2025-12-29 18:15:03 - [INFO] Memory usage normal: 20%
+2025-12-29 18:15:03 [CRITICAL] Disk usage 97% exceeded limit 80%.
+2025-12-29 18:15:03 [INFO] Auto-cleaned 0 old log files in /var/log.
+CRITICAL alert triggered – logged only
+2025-12-29 18:15:03 [INFO] Service sshd is running.
+2025-12-29 18:15:03 [INFO] Service crond is running.
+2025-12-29 18:20:03 [INFO] CPU normal (3%)
+2025-12-29 18:20:03 - [INFO] Memory usage normal: 23%
+2025-12-29 18:20:03 [CRITICAL] Disk usage 97% exceeded limit 80%.
+2025-12-29 18:20:03 [INFO] Auto-cleaned 0 old log files in /var/log.
+CRITICAL alert triggered – logged only
+2025-12-29 18:20:03 [INFO] Service sshd is running.
+2025-12-29 18:20:03 [INFO] Service crond is running.
